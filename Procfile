@@ -1,0 +1,1 @@
+web: lighttpd -f light.conf -D
