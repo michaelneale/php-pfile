@@ -1,1 +1,1 @@
-Hello from php2
+Hello from php
