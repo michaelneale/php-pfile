@@ -1,1 +1,1 @@
-Hello from php 5
+Hello from php 6
